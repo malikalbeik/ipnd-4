@@ -1,5 +1,3 @@
-import webbrowser
-import fresh_tomatoes
 class Movie():
     def __init__(self, title, movie_story, poster_image_url, trailer_youtube_url):
         self.title = title
